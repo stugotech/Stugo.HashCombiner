@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Stugo.HashCombiner</id>
+    <version>$version$</version>
+    <authors>Stugo Ltd</authors>
+    <description>Combines hash codes for GetHashCode implementations</description>
+    <copyright>Copyright © Stugo Ltd 2016</copyright>
+  </metadata>
+  <files>
+    <file src="bin\net40\Stugo.HashCombiner.dll" target="lib\net40\" />
+    <file src="bin\net40\Stugo.HashCombiner.pdb" target="lib\net40\" />
+  </files>
+</package>
